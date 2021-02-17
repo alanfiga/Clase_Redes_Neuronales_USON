@@ -8,3 +8,6 @@ Desarrollo y Programación del perceptron de Rosenblatt's mediante la generació
 
 Actividad 2. Red Neuronal Profunda. 
 Desarrollo y Programación de una Red Neuronal Profunda con una capa oculta para resolver la problemática de la lógica XOR utilizando TensoFlow versión 1.14.0.
+
+Actividad 3. Red Neuronal Profunda para el Diagnóstico del Cancer de Mama. 
+Utilizando la base datos de  https://www.kaggle.com/uciml/breast-cancer-wisconsin-data y considerando como base la libreta Jupyter del Dr. Alfredo Castañeda https://github.com/castaned/RNP/blob/main/BreastCancer_MLP_tensorflow_simple.ipynb se hace la modicación del factor del descenso por gradiente de 0.01 a 0.10 con el fin de visualizar los efectos en la precisión (accuracy) y error (loss); todo ello utilizando TensoFlow versión 1.14.0.
